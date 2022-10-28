@@ -1,0 +1,54 @@
+body {
+    background-color: whitesmoke;
+}
+
+.btn {
+    background-color: #E5B36F;
+    color: black;
+}
+
+.sticky-top {
+    background-color:  #e35d46;
+}
+
+h1 {
+    color: #003366;
+}
+
+/* Carousel text */
+h3 {
+    color: #d7dee6;
+}
+
+h5{
+    color: #063b44;
+}
+
+.row {
+    max-width: 95%;
+    margin: auto;
+}
+
+/* For carousel images to fit on page */
+/* Needs height adjustment, can't seem to make them small enough in height */
+.images { 
+    width: 100%;
+    height: 100%;
+}
+
+/* Avatar size and position */
+.avatar {
+    width: auto;
+    height: auto;
+}
+
+/* Indicator positioning */
+.carousel-indicators {
+    width: auto;
+}
+
+
+/* Azure cards allows avatar backgrounds to be more visible against a white background */
+.card-body {
+    background-color: azure;
+}
